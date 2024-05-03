@@ -1,4 +1,6 @@
 # Robotics2_JacobianMatrix_Group8_ArticulatedManipulator_2024
+![ROBOTICS 2 MIDTERM PROJECT BY GROUP 8 (3)](https://github.com/icecreamperson/Robotics2_JacobianMatrix_Group8_ArticulatedManipulator_2024/assets/157493649/8329a826-88ff-45cf-a617-7976c7d18acf)
+
 ![ROBOTICS 2 MIDTERM PROJECT BY GROUP 8](https://github.com/icecreamperson/CSE_StepResponse_MEXE_3201_Group-8_2024/assets/157493649/a12ad46c-3cfe-4ad9-8ad8-f6e60c75ef98)
 
 
