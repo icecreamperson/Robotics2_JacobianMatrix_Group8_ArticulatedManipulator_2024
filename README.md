@@ -3,6 +3,9 @@
 
 ![ROBOTICS 2 MIDTERM PROJECT BY GROUP 8](https://github.com/icecreamperson/CSE_StepResponse_MEXE_3201_Group-8_2024/assets/157493649/a12ad46c-3cfe-4ad9-8ad8-f6e60c75ef98)
 
+# WRITTEN SOLUTIONS OF THE LABORATORY
+
+
 
 *GROUP 8 MEMBERS*
 
