@@ -5,6 +5,7 @@
 
 # WRITTEN SOLUTIONS OF THE LABORATORY
 
+![image](https://github.com/icecreamperson/Robotics2_JacobianMatrix_Group8_ArticulatedManipulator_2024/assets/157558526/67623c10-21c7-48f7-a7ba-c3cd4c931b6b)
 
 
 *GROUP 8 MEMBERS*
