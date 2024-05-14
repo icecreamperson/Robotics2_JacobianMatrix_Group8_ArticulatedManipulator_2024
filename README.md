@@ -7,7 +7,8 @@
 
 ![image](https://github.com/icecreamperson/Robotics2_JacobianMatrix_Group8_ArticulatedManipulator_2024/assets/157558526/67623c10-21c7-48f7-a7ba-c3cd4c931b6b)
 ![image](https://github.com/icecreamperson/Robotics2_JacobianMatrix_Group8_ArticulatedManipulator_2024/assets/157558526/85dc3324-e5b7-451c-972e-8fee6e069797)
-![Uploading image.png…]()
+![image](https://github.com/icecreamperson/Robotics2_JacobianMatrix_Group8_ArticulatedManipulator_2024/assets/157558526/05f473ee-fa0a-4c00-8759-f1e3a3ad77a5)
+
 
 
 *GROUP 8 MEMBERS*
